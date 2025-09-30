@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Aral CA
+# Aral Cavlak
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;Embedded+Systems+Developer" alt="Typing SVG" />
 
@@ -16,20 +16,20 @@
 Company: Most Otomasyon & Elektromarket
 Position: Software Engineer
 Focus: Desktop Application Development & System Integration
-Status: Building innovative solutions 🚀
+Status: Working - Employed 
 ```
 
 <div align="center">
   
-### 🏢 **Currently Working at Most Otomasyon & Elektromarket**
+### **Currently Working at Most Otomasyon & Elektromarket**
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## Tech Stack & Expertise
 
-### 💎 Primary Specialization
+### Primary Specialization
 
 <div align="center">
 
@@ -40,7 +40,7 @@ Status: Building innovative solutions 🚀
 
 </div>
 
-### 🚀 Programming Languages
+### Programming Languages
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Status: Building innovative solutions 🚀
 
 ---
 
-## 🎯 Specialized Experience
+## Specialized Experience
 
 <div align="center">
 
@@ -67,7 +67,7 @@ Status: Building innovative solutions 🚀
 <tr>
 <td align="center" width="33%">
 
-### 🤖 Computer Vision
+### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **AprilTag Detection**  
@@ -76,7 +76,7 @@ Advanced marker-based tracking and pose estimation
 </td>
 <td align="center" width="33%">
 
-### 📡 RFID Systems
+### RFID Systems
 ![RFID](https://img.shields.io/badge/RFID-FF6B6B?style=for-the-badge&logo=contactless-payment&logoColor=white)
 
 **RFID Operations**  
@@ -85,7 +85,7 @@ Inventory management and access control systems
 </td>
 <td align="center" width="33%">
 
-### 🧭 Navigation
+### Navigation
 ![Algorithm](https://img.shields.io/badge/Algorithms-4A90E2?style=for-the-badge&logo=algorithm&logoColor=white)
 
 **Dead Reckoning**  
@@ -97,7 +97,7 @@ Position estimation and navigation algorithms
 
 </div>
 
-### 🔌 Model Context Protocol (MCP)
+### Model Context Protocol (MCP)
 
 ```typescript
 // Created multiple MCP servers for enhanced AI integration
@@ -110,7 +110,7 @@ const expertise = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -127,7 +127,7 @@ const expertise = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -137,7 +137,7 @@ const expertise = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -147,7 +147,7 @@ const expertise = {
 
 ---
 
-## 💡 What I'm Up To
+## What I'm Up To
 
 ```javascript
 const aral = {
@@ -174,51 +174,44 @@ const aral = {
 
 ---
 
-## 🌟 Notable Projects & Areas
+## Notable Projects & Areas
 
 <div align="center">
 
 | 🎯 Area | 💻 Technology | 🔧 Experience |
 |---------|---------------|---------------|
 | **Desktop Development** | C# + DevExpress WinForms | ⭐⭐⭐⭐⭐ |
+| **Database Systems** | MSSQL Server/MySQL/Self Made JSON Server | ⭐⭐⭐⭐⭐ |
 | **Computer Vision** | OpenCV + AprilTag | ⭐⭐⭐⭐ |
 | **RFID Systems** | Hardware Integration | ⭐⭐⭐⭐ |
 | **Navigation Algorithms** | Dead Reckoning | ⭐⭐⭐⭐ |
 | **MCP Development** | Custom Servers | ⭐⭐⭐⭐ |
 | **Web Development** | HTML/CSS/JS/TS | ⭐⭐⭐⭐ |
-| **Mobile Development** | Kotlin/Java | ⭐⭐⭐ |
-| **Scripting** | Python/Lua | ⭐⭐⭐⭐ |
+| **Mobile Development** | Kotlin/Java | ⭐⭐⭐⭐ |
+| **Scripting** | Python/Lua | ⭐⭐⭐ |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## Reach out
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AralCA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aralca)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aral@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aral-cavlak-347212293/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aralcavlakbusiness@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎵 Currently Vibing To
 
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=aralps&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f7ff&bar_color_cover=true)
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%">
-
-**⭐ From [AralCA](https://github.com/AralCA) with 💙**
 
 </div>
