@@ -213,7 +213,7 @@ const aral = {
 
 ### 🎵 Currently Vibing To
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f7ff&bar_color_cover=true)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=aralps&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f7ff&bar_color_cover=true)
 
 ---
 
