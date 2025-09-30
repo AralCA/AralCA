@@ -115,6 +115,9 @@ const expertise = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AralCA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+
+## (Only Public Repos)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AralCA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
 
 </div>
@@ -168,7 +171,7 @@ const aral = {
     hardware: ["RFID", "Navigation Systems"]
   },
   currentFocus: "Building robust desktop applications with advanced computer vision features",
-  funFact: "Most of my repositories are private - the magic happens behind the scenes! 🎩✨"
+  funFact: "Most of my repositories are private"
 };
 ```
 
