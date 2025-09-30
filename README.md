@@ -211,7 +211,11 @@ const aral = {
 
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=aralps&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f7ff&bar_color_cover=true)
 
+</div>
+
 ---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%">
 
