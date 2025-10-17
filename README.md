@@ -136,45 +136,6 @@ const expertise = {
 
 </div>
 
----
-
-## Contribution Graph
-
-<div align="center">
-
-[![AralCA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AralCA&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## What I'm Up To
-
-```javascript
-const aral = {
-  code: ["C#", "Python", "Java", "Kotlin", "C++", "JavaScript", "TypeScript"],
-  askMeAbout: ["Desktop Apps", "Computer Vision", "RFID Systems", "Embedded Systems", "MCP"],
-  technologies: {
-    frontEnd: {
-      desktop: ["WinForms", "DevExpress"],
-      web: ["HTML", "CSS", "JavaScript"]
-    },
-    backEnd: {
-      languages: ["C#", "Python", "Java"],
-      frameworks: [".NET", "Spring"]
-    },
-    computerVision: ["OpenCV", "AprilTag"],
-    embedded: ["C", "C++", "Lua"],
-    aiIntegration: ["MCP Servers"],
-    hardware: ["RFID", "Navigation Systems"]
-  },
-  currentFocus: "Building robust desktop applications with advanced computer vision features",
-  funFact: "Most of my repositories are private"
-};
-```
-
----
-
 ## Notable Projects & Areas
 
 <div align="center">
