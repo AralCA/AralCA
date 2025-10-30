@@ -110,7 +110,9 @@ const expertise = {
 
 ---
 
-## GitHub Statistics
+## Public Repo GitHub Statistics (3 Public 45 Private Repositories)
+
+
 
 <div align="center">
 
