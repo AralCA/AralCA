@@ -29,7 +29,7 @@ Status     Employed
 
 **Frameworks & Tools**
 
-`DevExpress` · `WinForms` · `OpenCV` · `Node.js` · `React` · `Git` · `Docker`
+`DevExpress` · `WinForms` · `OpenCV` · `Node.js` · `React` · `Expo` · `Git` · `Docker` · `BullMQ`
 
 **Databases**
 
@@ -68,7 +68,48 @@ Status     Employed
 </tr>
 </table>
 
-### `04` — Metrics
+### `04` — Projects
+
+<table>
+<tr>
+<td width="50%">
+<strong>Whiplash</strong><br>
+<sub>Autonomous coding agent powered by Claude. Integrates with GitHub to auto-build solutions from issues, review PRs, and create features — fully autonomous with a web dashboard.</sub><br>
+<sub><code>TypeScript</code> · <code>Node.js</code> · <code>BullMQ</code> · <code>Docker</code> · <code>Next.js</code></sub>
+</td>
+<td width="50%">
+<strong>Magic Wand</strong><br>
+<sub>Android handheld device for warehouse operations. Combines AprilTag pose detection, UHF RFID scanning, and barcode reading with real-time server communication.</sub><br>
+<sub><code>Kotlin</code> · <code>Java</code> · <code>OpenCV</code> · <code>Android</code> · <code>RFID</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<strong>ARC-DSC</strong><br>
+<sub>UAV research initiative — energy source comparison, drone physics modeling, commercialization analysis, and feasibility studies for autonomous aerial systems.</sub><br>
+<sub><code>Research</code> · <code>UAV</code> · <code>Physics</code> · <code>Analysis</code></sub>
+</td>
+<td width="50%">
+<strong>RaRe</strong><br>
+<sub>Music rating & discovery app. Rate records, track listening history, with automatic Spotify sync and color extraction from album art.</sub><br>
+<sub><code>React Native</code> · <code>Expo</code> · <code>TypeScript</code> · <code>Spotify API</code></sub>
+</td>
+</tr>
+</table>
+
+### `05` — Currently Learning
+
+```
+ ✈  Aerial Technology & UAV Systems
+    Pusher-configuration UAV design, flight controllers,
+    autonomous navigation & sensor fusion for drone platforms
+```
+
+<div align="center">
+<img src="https://media.giphy.com/media/YnZPEeeC7q6pQTYiMM/giphy.gif" width="300"/>
+</div>
+
+### `06` — Metrics
 
 <sub>3 public · 45 private repositories</sub>
 
@@ -86,7 +127,7 @@ Status     Employed
 
 </div>
 
-### `05` — Connect
+### `07` — Connect
 
 <div align="center">
 
