@@ -103,11 +103,19 @@ Status     Employed
     Aerial Technology & UAV Systems
     Pusher-configuration UAV design, flight controllers,
     autonomous navigation & sensor fusion for drone platforms
-```
 
-<div align="center">
-<img src="https://media.giphy.com/media/YnZPEeeC7q6pQTYiMM/giphy.gif" width="300"/>
-</div>
+
+                            ___
+                    -------/   \-------
+                   /   ─────────────   \
+          ________/___/             \___\________
+         /    ─────────────────────────────    /
+        /____________/_____________\____________/
+                    /               \
+                   /_________________\
+                          |=|
+                          |=|
+```
 
 ### `06` — Metrics
 
