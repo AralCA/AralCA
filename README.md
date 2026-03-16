@@ -100,21 +100,9 @@ Status     Employed
 ### `05` — Currently Learning
 
 ```
-    Aerial Technology & UAV Systems
-    Pusher-configuration UAV design, flight controllers,
-    autonomous navigation & sensor fusion for drone platforms
-
-
-                            ___
-                    -------/   \-------
-                   /   ─────────────   \
-          ________/___/             \___\________
-         /    ─────────────────────────────    /
-        /____________/_____________\____________/
-                    /               \
-                   /_________________\
-                          |=|
-                          |=|
+Aerial Technology & UAV Systems
+Pusher-configuration UAV design, flight controllers,
+autonomous navigation & sensor fusion for drone platforms
 ```
 
 ### `06` — Metrics
